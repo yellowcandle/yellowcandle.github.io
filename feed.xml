@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>the-yellow-candle</title>
+    <link href="https://yellowcandle.github.io/feed.xml" rel="self" />
+    <link href="https://yellowcandle.github.io" />
+    <updated>1970-01-01T08:00:00+08:00</updated>
+    <author>
+        <name>Stephen Wong</name>
+    </author>
+    <id>https://yellowcandle.github.io</id>
+
+</feed>
